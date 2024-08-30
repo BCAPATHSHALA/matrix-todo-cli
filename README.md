@@ -67,8 +67,4 @@ Feel free to reach out if you have any questions or suggestions!
 
 ## Video
 
-<div style="text-align:center">
-  <div markdown="1">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bOPKJykezAg?autoplay=1" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
+[![YouTube Video](https://img.youtube.com/vi/bOPKJykezAg/0.jpg)](https://www.youtube.com/watch?v=bOPKJykezAg)
