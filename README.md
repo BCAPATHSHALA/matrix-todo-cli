@@ -6,10 +6,6 @@
   <img src="https://res.cloudinary.com/dq3pru6ji/image/upload/v1725024488/OWN%20IMAGES/MATRIX-TODOS-CLI-TOOL_ybhmlx.png" alt="MATRIX-TODOS-CLI-TOOL">
 </p>
 
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bOPKJykezAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Features
 
 - **Add a New ToDo**: Add a new to-do item with details such as importance, urgency, status, and deadline.
@@ -68,3 +64,7 @@ Connect with me on social media:
 [Twitter](https://twitter.com/manojofficialmj)
 
 Feel free to reach out if you have any questions or suggestions!
+
+## Video
+
+[![YouTube Video](https://img.youtube.com/vi/bOPKJykezAg/0.jpg)](https://www.youtube.com/watch?v=bOPKJykezAg)
