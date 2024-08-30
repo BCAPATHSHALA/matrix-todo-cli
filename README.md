@@ -1,6 +1,6 @@
-# MATRIX TODO CLI (NPM PACKAGE)
+# MATRIX TODOS CLI (NPM PACKAGE)
 
-`matrix-todo-cli` is a command-line interface tool for managing your to-do list efficiently. With this package, you can easily add, edit, delete, and view to-do items, as well as filter them based on various criteria.
+`matrix-todos-cli` is a command-line interface tool for managing your to-do list efficiently. With this package, you can easily add, edit, delete, and view to-do items, as well as filter them based on various criteria.
 
 ## Features
 
@@ -16,7 +16,7 @@
 To use `matrix-todo-cli`, you need to install it via npm:
 
 ```bash
-npm install matrix-todo-cli
+npm install matrix-todos-cli
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ npm install matrix-todo-cli
 In your main file (e.g., `index.js`), you can use the package as follows:
 
 ```js
-import { showMenu, initFile } from "matrix-todo-cli";
+import { showMenu, initFile } from "matrix-todos-cli";
 
 // Initialize the file
 initFile();

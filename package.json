@@ -1,5 +1,5 @@
 {
-  "name": "matrix-todo-cli",
+  "name": "matrix-todos-cli",
   "version": "1.0.0",
   "description": "This is a file based Todo CLI NPM Package",
   "main": "todo.js",
