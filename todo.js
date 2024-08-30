@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const filePath = path.join(__dirname, "todos.json");
 
-const initFile = () => {
+export const initFile = () => {
   if (!fs.existsSync(filePath)) {
     fs.writeFileSync(filePath, JSON.stringify([]));
   }
@@ -31,7 +31,7 @@ const formatDate = (timestamp) => {
 };
 
 // Show all available cli operations
-const showMenu = () => {
+export const showMenu = () => {
   console.log(chalk.green.bold("\nToDo List CLI Cohort 3.0\n"));
   inquirer
     .prompt([
@@ -534,5 +534,5 @@ const viewTodos = () => {
 };
 
 // Initialize the both
-initFile();
-showMenu();
+// initFile();
+// showMenu();
