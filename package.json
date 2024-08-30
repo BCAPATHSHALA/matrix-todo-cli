@@ -1,6 +1,6 @@
 {
   "name": "matrix-todos-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a file based Todo CLI NPM Package",
   "main": "todo.js",
   "type": "module",
