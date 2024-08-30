@@ -2,6 +2,10 @@
 
 `matrix-todos-cli` is a command-line interface tool for managing your to-do list efficiently. With this package, you can easily add, edit, delete, and view to-do items, as well as filter them based on various criteria.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dq3pru6ji/image/upload/v1725024488/OWN%20IMAGES/MATRIX-TODOS-CLI-TOOL_ybhmlx.png" alt="MATRIX-TODOS-CLI-TOOL">
+</p>
+
 ## Features
 
 - **Add a New ToDo**: Add a new to-do item with details such as importance, urgency, status, and deadline.
