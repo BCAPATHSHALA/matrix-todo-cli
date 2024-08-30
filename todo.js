@@ -508,28 +508,6 @@ const viewTodos = () => {
 
       return Promise.resolve(todos);
     })
-    // .then((filteredTodos) => {
-    //   console.log(chalk.blue("\nYour ToDo List:\n"));
-    //   if (filteredTodos.length === 0) {
-    //     console.log(chalk.black("No task available"));
-    //   } else {
-    //     filteredTodos.forEach((todo, index) => {
-    //       const taskDisplay = `No. ${index + 1}. Todo: ${
-    //         todo.task
-    //       } isImportant: ${todo.isImportant} isUrgent: ${
-    //         todo.isUrgent
-    //       } deadline: ${todo.deadline} status: ${todo.status} createdAt: ${todo.createdAt}`;
-    //       if (todo.status === "Completed") {
-    //         console.log(chalk.green(taskDisplay));
-    //       } else if (todo.status === "Ongoing") {
-    //         console.log(chalk.blue(taskDisplay));
-    //       } else if (todo.status === "Plan") {
-    //         console.log(chalk.blueBright(taskDisplay));
-    //       }
-    //     });
-    //   }
-    //   showMenu();
-    // });
     .then((filteredTodos) => {
       console.log(chalk.blue("\nYour ToDo List:\n"));
 
@@ -555,6 +533,6 @@ const viewTodos = () => {
     });
 };
 
-// Initialize
+// Initialize the both
 initFile();
 showMenu();
